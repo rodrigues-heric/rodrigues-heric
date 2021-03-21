@@ -5,18 +5,15 @@
 - Bolsista em PET Computação UFRGS
 - Fun fact: amo desenhar pixel art 1 bit
 
----
-
 ### Linguagens:
 - C/C++
 - Python
 - JavaScrit
 - PHP
 
----
-
 ### Entre em contato:
 LinkedIn: https://www.linkedin.com/in/rodriguesheric/
 
-<br />
-<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigues-heric&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigues-heric&layout=compact&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
