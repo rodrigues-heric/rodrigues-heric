@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @rodrigues-heric
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Olá, eu sou Heric 👋
 
-<!---
-rodrigues-heric/rodrigues-heric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sou estudante de Ciência da Computação 💻
+- Graduando na Universidade Federal do Rio Grande do Sul
+- Bolsista em PET Computação UFRGS
+- Fun fact: amo desenhar pixel art 1 bit
+
+---
+
+### Linguagens:
+- C/C++
+- Python
+- JavaScrit
+- PHP
+
+---
+
+### Entre em contato:
+LinkedIn: https://www.linkedin.com/in/rodriguesheric/
+
+<br />
+<br />
