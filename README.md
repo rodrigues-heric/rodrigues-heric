@@ -3,17 +3,14 @@
 ## Sou estudante de Ciência da Computação 💻
 
 - Graduando na Universidade Federal do Rio Grande do Sul
-
-- Fun fact: amo desenhar pixel art 1 bit
+- Desenvolvedor FullStack Jr
+- Estudante de língua russa e língua chinesa
 
 ### Linguagens:
 - C/C++
-
 - Python
-
 - Javascript / Typescript
-
-- PHP
+- PostgreSQL
 
 ### Entre em contato:
 
