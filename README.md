@@ -4,7 +4,7 @@ My name is Heric Leite Rodrigues, i am brazilian and a Computer Science student 
 
 Currently a Jr FullStack Developer. Interested in learning and developing clean and intuitive interfaces, along with a safe and robust system.
 
-i love studying languages so that i can lower my barriers and lear from different sources.
+i love studying languages so that i can overcome my barriers and lear from different sources.
 
 **Main skills:**
 
@@ -26,7 +26,7 @@ Meu nome é Heric Leite Rodrigues, sou brasileiro e estudante de Ciência da Com
 
 Atualmente um Desenvolvedor FullStack Jr. Interessado em aprender e desenvolver interfaces limpas e intuitivas, juntamente com um sistema seguro e robusto. 
 
-Adoro estudar idiomas para que assim eu possa diminuir minhas barreiras e aprender de diversas fontes.
+Adoro estudar idiomas para que assim eu possa superar minhas barreiras e aprender de diversas fontes.
 
 **Habilidades principais:**
 
