@@ -41,7 +41,23 @@ Software engineer focused on building scalable, resilient, and user-centric appl
 **[Weather Report](https://github.com/rodrigues-heric/weather-report)**: High-performance weather forecasting platform using an event-driven microservices architecture.
 > **Engineering Highlight:** Implemented a polyglot system designed for high availability. Used **NestJS** as the main gateway and **RabbitMQ** to orchestrate asynchronous background jobs processed by **Go** and **Python** workers.
 
-![React](https://img.shields.io/badge/React-flat?style=flat&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/NestJS-flat?style=flat&logo=nestjs&logoColor=E0234E) ![Go](https://img.shields.io/badge/Go-flat?style=flat&logo=go&logoColor=00ADD8) ![Python](https://img.shields.io/badge/Python-flat?style=flat&logo=python&logoColor=3776AB) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-flat?style=flat&logo=rabbitmq&logoColor=FF6600) ![Docker](https://img.shields.io/badge/Docker-flat?style=flat&logo=docker&logoColor=2496ED)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+**[RSS Feed](https://github.com/rodrigues-heric/rss-feed)**: A Feed RSS agreggator designed for high-performance and scalable system.
+> **Engineering Highlight:** **NestJS** for the main gateway. **Go** worker for rss fetching and parsing. **React** for the UI and UX.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
