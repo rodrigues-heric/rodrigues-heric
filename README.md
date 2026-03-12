@@ -2,44 +2,22 @@
 
 ### 💻 Software Engineer | Full Stack Developer | Problem Solver
 
-Software engineer focused on building scalable, resilient, and user-centric applications. My approach combines a solid foundation in algorithms and data structures with the practical application of best engineering practices (Clean Code, SOLID, and Testing).
+Full-stack Software Engineer with 4+ years of experience building scalable distributed systems
+and high-performance data pipelines. Expert-level proficiency in TypeScript, React, and
+Node.js, with a strong background in polyglot development using Go, Python, and Java.
+
+Experienced in designing event-driven architectures using RabbitMQ and deploying
+containerized solutions via Docker across AWS and Azure cloud environments. Proven track
+record of improving team velocity through technical mentorship and reusable module design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured projects
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Messaging & Database**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-FFB13B?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-### 🚀 Featured
-
-**[Weather Report](https://github.com/rodrigues-heric/weather-report)**: High-performance weather forecasting platform using an event-driven microservices architecture.
-> **Engineering Highlight:** Implemented a polyglot system designed for high availability. Used **NestJS** as the main gateway and **RabbitMQ** to orchestrate asynchronous background jobs processed by **Go** and **Python** workers.
+**[Weather Report](https://github.com/rodrigues-heric/weather-report)**: High-performance weather forecasting platform using 
+an event-driven microservices architecture.
+> **Engineering Highlight:** Implemented a polyglot system designed for high availability. Used **NestJS** as the main gateway
+> and **RabbitMQ** to orchestrate asynchronous background jobs processed by **Go** and **Python** workers.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
