@@ -1,4 +1,4 @@
-# Hi, I'm Heric! 🚀
+# Hi, I'm Heric! 🧙🏾‍♂️
 
 ### 💻 Software Engineer | Full Stack Developer | Problem Solver
 
