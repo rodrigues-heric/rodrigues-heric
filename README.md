@@ -14,6 +14,19 @@ record of improving team velocity through technical mentorship and reusable modu
 
 ### 🚀 Featured projects
 
+*[ONGOING]* **[On Call Incident Manager](https://github.com/rodrigues-heric/On-Call-Incident-Manager)**: Backend platform designed to help 
+engineering teams manage operational incidents in real time. It covers the full lifecycle of an incident: from detection and alerting the 
+right person, through triage and investigation, to resolution and post-mortem documentation. 
+
+> **Engineering Highlight:** Used **Finite State Machine (FSM)** for the incidents states. **Redis** for caching and TTL. **TDD** with
+> 90% code coverage. **Auditable** platform (soft deletes, incidents table, etc). **GlobalExceptionHandler** using @ControllerAdvice.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+
 **[Weather Report](https://github.com/rodrigues-heric/weather-report)**: High-performance weather forecasting platform using 
 an event-driven microservices architecture.
 > **Engineering Highlight:** Implemented a polyglot system designed for high availability. Used **NestJS** as the main gateway
